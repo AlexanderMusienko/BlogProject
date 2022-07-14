@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/egorp/Desktop/Go go land/BLOG'
+make: Leaving directory 'c:/Users/egorp/Desktop/Go go land/BLOG'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
